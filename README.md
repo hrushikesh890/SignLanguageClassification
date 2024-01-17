@@ -1,7 +1,11 @@
 Senior Year Project
-Interactive Mathematics Textbook for speech-impaired students 
+
+**Interactive Mathematics Textbook for speech-impaired students**
+
 Data is contained in Augmented and validation folders
+
 src contains the source files
+
 Below is the block diagram for the image classification
 
 ![image](https://github.com/hrushikesh890/SignLanguageClassification/assets/24652679/a9dd77e6-7306-4638-b6ea-dc3db7394c9e)
